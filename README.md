@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sai</h1>
-<h3 align="center">Student at Rutgers University</h3>
+<h1 align="center">Hi there, I'm Sai</h1>
+<h3 align="center">CS and Math Student at Rutgers University</h3>
 
 
 - 📘 I’m currently learning **AI and Machine Learning**
