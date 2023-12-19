@@ -2,9 +2,9 @@
 <h3 align="center">Student at Rutgers University</h3>
 
 
-- 📖 I’m currently learning **AI and Machine Learning**
+- 📘 I’m currently learning **AI and Machine Learning**
 
-- 📧 How to contact me **saimanukonda24@gmail.com**
+- 📧 Email me at **saimanukonda24@gmail.com**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimanukonda&" alt="saimanukonda" /></p>
 
@@ -12,5 +12,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/saimanukonda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saimanukonda" height="30" width="40" /></a>
 <a href="https://leetcode.com/saimanukonda24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saimanukonda24" height="30" width="40" /></a>
-<a href="https://leetcode.com/saimanukonda24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="saimanukonda24" height="30" width="40" /></a>
 </p>
